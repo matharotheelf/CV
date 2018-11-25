@@ -37,8 +37,9 @@ An intense 3 month software development course that provided me with experience 
 
 ### Whitgift School, Croydon (Sep '06 - Aug '13)
 
-A Levels : A* in Mathematics, A in Further Mathematics, Chemistry and Physics
-Academic scholar
+- Academic scholar
+- A Levels : A* in Mathematics, A in Further Mathematics, Chemistry and Physics
+- 11 A*s GCSE
 
 ## Experience
 
