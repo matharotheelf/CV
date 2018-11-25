@@ -12,7 +12,7 @@ I am genuinely enthusiastic about thinking analytically. Throughout my physics d
 
 #### Creative Thinker
 
-I am very interested in the arts as well as science. I constantly draw and go to life drawing classes every week. I won my college's art prize whilst at university. My creative thinking has also been fostered during my degree where I constantly needed creastive ideas to solve challenging problems. I anticipate using my creative side as much as my analytical side in my career as a software developer.
+I am very interested in the arts as well as science. I constantly draw and go to life drawing classes every week. I won my college's art prize whilst at university. My creative thinking has also been fostered during my degree where I constantly needed creastive ideas to solve difficult problems. I anticipate using my creative side as much as my analytical side in my career as a software developer.
 
 #### Team Worker
 
