@@ -16,7 +16,7 @@ I am very interested in the arts as well as science. I constantly draw and go to
 
 #### Team Worker
 
-I greatly enjoy being part of a team as I am a naturally empathetic person. As part of my degree project I worked on evolution algorithms at the Diamond Light Source. It is here that I worked as part of a team of researchers to optimise evolutionary algorithms' performance. Attending and contributing to group meetings was a highlight of my project. This project greatly improved my confidence in actively contributing to a group working in a technical area.
+I greatly enjoy being part of a team as I am a naturally empathetic person. As part of my degree project I worked on evolutionary algorithms at the Diamond Light Source. It is here that I worked as part of a team of researchers to optimise the evolutionary algorithms' performance. Attending and contributing to group meetings was a highlight of my project. This project greatly improved my confidence in actively contributing to a group working in a technical area.
 
 ## Education
 
