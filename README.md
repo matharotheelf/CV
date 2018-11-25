@@ -1,33 +1,28 @@
 ## Thomas Lawrence
 
-I am a creative and hardworking physics graduate from the University of Oxford. I enjoy making art and I have an interest in visual culture. I am looking for a field of employment which will combine my creativity with my strong analytical skills. Therefore, I have a keen interest in software development and have greatly enjoyed past experiences in programming.
+I am a creative and hardworking physics graduate from the University of Oxford. I am searching for a stimulating job in software development that will build my programming skills, so I can pursue an exciting career.
+
+**Tech Skills** Python, Ruby, MatLab 
 
 ## Skills
 
-#### This Skill
+#### Analytical Thinker
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am genuinely enthusiastic about thinking analytically. Throughout my physics degree I solved challenging problems, and tackled difficult topics, which both nurtured my analyticals skills and grew my interest in logical problems. It is these skills which I am excited to use in software development.
 
-- Experience
-- Achievements
-- Evidence
+#### Creative Thinker
 
-#### Another Skill
+I am very interested in the arts as well as science. I constantly draw and go to life drawing classes every week. I won my college's art prize whilst at university. My creative thinking has also been fostered during my degree where I constantly needed creastive ideas to solve challenging problems. I anticipate using my creative side as much as my analytical side in my career as a software developer.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Team Worker
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I greatly enjoy being part of a team as I am a naturally empathetic person. As part of my degree project I worked on evolution algorithms at the Diamond Light Source. It is here that I worked as part of a team of researchers to optimise evolutionary algorithms' performance. Attending and contributing to group meetings was a highlight of my project. This project greatly improved my confidence in actively contributing to a group working in a technical area.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov'18 to Feb'19)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+An intense 3 month software development course that provided me with experience in :
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -38,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BA Physics
 - 2:1
-- Project in evolutionary algorithms at the Diamond Accelerator
+- Project in evolutionary algorithms at the Diamond Light Source, Harwell
 
 ### Whitgift School, Croydon (Sep '06 - Aug '13)
 
