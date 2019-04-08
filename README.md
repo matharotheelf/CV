@@ -19,7 +19,7 @@ I am very interested in the arts as well as science. I constantly draw and go to
 I greatly enjoy being part of a team as I am a naturally empathetic person. As part of my degree project I worked on evolutionary algorithms at the Diamond Light Source. It is here that I worked as part of a team of researchers to optimise the evolutionary algorithms' performance. Attending and contributing to group meetings was a highlight of my project. This project greatly improved my confidence in actively contributing to a group working in a technical area.
 
 ## Projects
-| Title | Description &nbsp; &nbsp; | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 |Catbook (Facebook Clone) https://github.com/learningtocode101/acebook-team-cats | Created Facebook like social media App using Ruby on Rails. | 2 weeks | Ruby, Rails, HTML/CSS, PostgreSQL,  Heroku | RSpec, Capybara, Travis, Rubocop |
 |Orthogonal Quest https://github.com/Sindex42/orthogonal-quest | Create topdown dungeon crawler game using Python's Pygame library. | 2 weeks | Python, Pygame | Travis, Pylint |
