@@ -2,7 +2,7 @@
 
 I am a creative and hardworking physics graduate from the University of Oxford. I am searching for a stimulating job in software development that will build my programming skills, so I can pursue an exciting career.
 
-**Tech Skills** Python, Ruby, MatLab 
+**Tech Skills** Python, Ruby, MatLab, JavaScript 
 
 ## Skills
 
@@ -33,6 +33,7 @@ An intense 3 month software development course that provided me with experience 
 
 - BA Physics
 - 2:1
+- Academic Scholar
 - Project in evolutionary algorithms at the Diamond Light Source, Harwell
 
 ### Whitgift School, Croydon (Sep '06 - Aug '13)
