@@ -1,6 +1,6 @@
 ## Thomas Lawrence
 
-I am a creative and hardworking physics graduate from the University of Oxford. I am searching for a stimulating job in software development that will build my programming skills, so I can pursue an exciting career.
+I am a creative and hardworking physics graduate from New College University of Oxford. I am searching for a stimulating job in software development that will build my programming skills, so I can pursue an exciting career.
 
 **Tech Skills** Python, Ruby, MatLab, JavaScript 
 
@@ -57,3 +57,9 @@ An intense 3 month software development course that provided me with experience 
 *Volunteer*  
 **Tutor Doctor** (2014 - Present)   
 *Physics and Mathematics tutor*  
+
+## Interests
+
+- I constantly draw and paint and have recieved multiple honors for my efforts: New College Art Prize 2017 and was a finalist in the highly competitive London Drawing Group ‘Overdrawn’ Art Prize this year.
+- I love Japan. I study the Japanese language and regularly attend Japanese language sharing meetups.
+- I'm an avid reader and love nothing more than sitting down and enjoying a good book.
