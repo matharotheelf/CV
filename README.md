@@ -21,9 +21,9 @@ I greatly enjoy being part of a team as I am a naturally empathetic person. As p
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-|Catbook (Facebook Clone) https://github.com/learningtocode101/acebook-team-cats | Created Facebook like social media App using Ruby on Rails. | 2 weeks | Ruby, Rails, HTML/CSS, PostgreSQL,  Heroku | RSpec, Capybara, Travis, Rubocop |
-|Orthogonal Quest https://github.com/Sindex42/orthogonal-quest | Create topdown dungeon crawler game using Python's Pygame library. | 2 weeks | Python, Pygame | Travis, Pylint |
-|Singletons https://github.com/rednblack99/singletons_app | Created a dating app use Ruby and Sinatra | 1 week | Ruby, HTML/CSS, PostgreSQL | Spec, Capybara, Rubocop |
+|[Catbook (Facebook Clone)](https://github.com/learningtocode101/acebook-team-cats) | Created Facebook like social media App using Ruby on Rails. | 2 weeks | Ruby, Rails, HTML/CSS, PostgreSQL,  Heroku | RSpec, Capybara, Travis, Rubocop |
+|[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Create topdown dungeon crawler game using Python's Pygame library. | 2 weeks | Python, Pygame | Travis, Pylint |
+|[Singletons](https://github.com/rednblack99/singletons_app) | Created a dating app use Ruby and Sinatra | 1 week | Ruby, HTML/CSS, PostgreSQL | Spec, Capybara, Rubocop |
 |Optimisation of Evolutionary Algorithms | Multi-objective optimisation algorithm rely hard coded parameters to operate. I automated the varying of these hard-coded parameters to test which combinations of them provided the best performance. | 6 months | Diamond Light Source Online Optimiser, Python | None |
 
 
