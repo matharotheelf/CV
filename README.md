@@ -54,9 +54,10 @@ An intense 3 month software development course that provided me with experience 
 ## Experience
 
 **Pharmacy Department, Croydon University Hospital** (2015)    
-*Volunteer*  
+*Pharmacy Assistant*  
 **Tutor Doctor** (2014 - Present)   
-*Physics and Mathematics tutor*  
+*Physics and Mathematics tutor* 
+**Restaurant work during university vacations**
 
 ## Interests
 
