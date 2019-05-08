@@ -12,11 +12,11 @@ I am genuinely enthusiastic about thinking analytically. Throughout my physics d
 
 #### Creative Thinker
 
-I am very interested in the arts as well as science. I constantly draw and go to life drawing classes every week. I won my college's art prize whilst at university. My creative thinking has also been fostered during my degree where I constantly needed creative ideas to solve difficult problems. I anticipate using my creative side as much as my analytical side in my career as a software developer.
+I am very interested in the arts as well as science. I constantly draw and go to life drawing classes every week. I won the New College art prize and was a finalist in the highly competitive London Drawing Group ‘Overdrawn’ Art Prize this year. My creative thinking has also been fostered in my degree where I constantly needed creative ideas to solve difficult problems. I anticipate using my creative side as much as my analytical side in my career as a software developer.
 
 #### Team Worker
 
-I greatly enjoy being part of a team as I am a naturally empathetic person. As part of my degree project I worked on evolutionary algorithms at the Diamond Light Source. It is here that I worked as part of a team of researchers to optimise the evolutionary algorithms' performance. Attending and contributing to group meetings was a highlight of my project. This project greatly improved my confidence in actively contributing to a group working in a technical area.
+I greatly enjoy being part of a team as I am a naturally empathic person. As part of my degree project I worked on evolutionary algorithms at the Diamond Light Source. It is here that I worked as part of a team of researchers to optimise the evolutionary algorithms' performance. Attending and contributing to group meetings was a highlight of my project. This project greatly improved my confidence in actively contributing to a group working in a technical area. The highlight of my Makers'  experience was working on group projects where we used AGILE methodologies whilst solving complex coding problems.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
