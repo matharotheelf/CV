@@ -1,6 +1,6 @@
 ## Thomas Lawrence
 
-I am a creative and hardworking physics graduate from New College University of Oxford. I am searching for a stimulating job in software development that will build my programming skills, so I can pursue an exciting career.
+I am a creative and hardworking physics graduate of New College, University of Oxford. I am searching for a stimulating job in software development that will build my programming skills, so I can pursue an exciting career.
 
 **Tech Skills** Python, Ruby, MatLab, JavaScript 
 
