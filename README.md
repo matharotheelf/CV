@@ -59,7 +59,7 @@ An intense 3 month software development course that provided me with experience 
 **Pharmacy Department, Croydon University Hospital** (2015)    
 *Pharmacy Assistant* 
 
-**Restaurant work during university vacations** (2014 - 2017
+**Restaurant work during university vacations** (2014 - 2017)
 
 ## Interests
 
