@@ -64,5 +64,5 @@ An intense 3 month software development course that provided me with experience 
 ## Interests
 
 - I constantly draw and paint and have recieved multiple honors for my efforts: New College Art Prize 2017 and was a finalist in the highly competitive London Drawing Group ‘Overdrawn’ Art Prize this year.
-- I love Japan. I study the Japanese language and regularly attend Japanese language sharing meetups.
+- I love Japan. I have travelled extensively in Japan. I study the Japanese language and regularly attend Japanese language sharing meetups.
 - I'm an avid reader and love nothing more than sitting down and enjoying a good book.
