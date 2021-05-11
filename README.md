@@ -86,4 +86,4 @@ A Saas company specialising in websites and tools for estate agents, including i
 ## Interests
 
 - I draw and paint and have recieved multiple honors for my efforts: New College Art Prize 2017 and was a finalist in the highly competitive London Drawing Group ‘Overdrawn’ Art Prize this year.
-- I love Japan. I have travelled extensively in Japan. I study the Japanese language and regularly attend Japanese language sharing meetups.|
+- I love Japan. I have travelled extensively in Japan. I study the Japanese language and regularly attend Japanese language sharing meetups.
