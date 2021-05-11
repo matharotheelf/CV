@@ -1,6 +1,6 @@
   ## Thomas Lawrence
 
-I am a graduate of New College, University of Oxford. I currently work as a mid-level software developer for a SaaS company. I have experience balancing personal projects with a busy professional life. 
+I am a physics graduate of New College, University of Oxford. I currently work as a mid-level software developer for a SaaS company, Homeflow. I have experience balancing personal projects with a busy professional life. 
 
 **Tech Skills** Python, Ruby, JavaScript, React, Rails, SQL, AWS, Docker, Redux, Jenkins, Aframe
 
@@ -8,23 +8,23 @@ I am a graduate of New College, University of Oxford. I currently work as a mid-
 
 #### Analytical Thinker
 
-My analytical skills were honed throughout an intense degree syllabus, completing modules in advanced physics topics (Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics). 
+I developed my analytical skills throughout an intense degree syllabus, completing modules in advanced physics topics (Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics). 
 
 My current employer has a complex application network, with large legacy applications. Maintaining these sytems has developed a robust debugging process. I also enjoy innovating in green field projects, everything from building security for a database API, to my side projects creating software tools for creatives. I believe a robust process is essential for sucess in exciting projects.
 
 #### Creative Thinker
 
-I am very interested in the arts as well as science. I combined my creative and technological skills to develop a tool to create 360 art galleries instantly [Imaginespace](https://imaginespace.io). I excited for future problem solving collaboration.
+As well as being interested in scienece, I am also interested in art. I combined my creative and technological skills to develop a tool to create 360 art galleries instantly [Imaginespace](https://imaginespace.io). I am excited for future problem solving collaboration.
 
-I attend life drawing classes weekly. I won the New College Art Prize and was a finalist in the highly competitive London Drawing Group ‘Overdrawn’ Art Prize in 2019. 
+I attend life drawing classes weekly. I won the New College Art Prize and was a finalist in the highly competitive London Drawing Group ‘Overdrawn’ Art Prize in 2019.
 
 #### Team Worker
 
-I greatly enjoy being part of a team as I am a naturally empathic person. As part of my degree project I worked on evolutionary algorithms at the Diamond Light Source. It is here that I worked as part of a team of researchers to optimise the evolutionary algorithms' performance. Attending and contributing to group meetings was a highlight of my project. This project greatly improved my confidence in actively contributing to a group working in a technical area.
+I greatly enjoy working in teams. As part of my degree project I explored evolutionary algorithms at the Diamond Light Source. It is here that I collaborated as a team of researchers to optimise the evolutionary algorithms' performance. I contributed in brainstorming solutions to departmental meetings.
 
-I am an essential ingredient in my employers' collaborative and open atmosphere. I have led stand ups, retros and managed sprint cycles for the back-end team. I supervise and mentor junior developers new to the company. I write board reports and present on strategic projects. I collaborate with important clients, such as Connells Estate Agency Group and Rightmove, to overcome complex technical challenges.
+At Homeflow, I have led stand ups, retros and managed sprint cycles for the back-end team. In addition, I supervise and mentor junior developers entering the company. I write board reports and present on strategic projects. I collaborate with important clients, such as Connells Estate Agency Group and Rightmove, to overcome complex technical challenges.
 
-I founded an afterwork code club to share knowledge around the team, I present on a wide range of topics including: Rails' AREL API, concurrent programming and React 360.
+I founded an afterwork code club to share knowledge around the team on a wide range of topics including: Rails' AREL API, concurrent programming and React 360.
 
 #### Social Responsibility 
 
@@ -34,7 +34,7 @@ I regularly mentor in my local 'Codebar' where I teach minority groups how to co
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 |[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Create topdown dungeon crawler game using Python's Pygame library. | 2 weeks | Python, Pygame | Travis, Pylint |
-|[Imaginespace](https://imaginespace.io) | An Indie venture. A tool to create 360 galleries and a payment inegration with Stripe. | 6 months | React, Redux, Aframe, Render, AWS S3, Stripe.js | React Testing Library, Jest, CircleCI, Render.com |
+|[Imaginespace](https://imaginespace.io) | An Indie venture. A tool to create 360 galleries and a payment inegration with Stripe. | 6 months | React, Redux, Aframe, Render, AWS S3, Stripe.js, Bootstrap | React Testing Library, Jest, CircleCI, Render.com |
 |Database API ORM | A wrapper around database queries to convert data to Ruby Objects | 3 months | Rails, Ruby | Rspec |
 |Database API Authorization | Adding security to a database API so it can be securely accessed by external clients. | 3 months | Rails, Ruby | Rspec |
 |Property Geoqueries| Searches for properties in a given area (polygon). | 3 months | Rails, Ruby, Mongoid, Mongo | Rspec |
