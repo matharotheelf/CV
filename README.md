@@ -14,7 +14,7 @@ My current employer has a complex application network, with large legacy applica
 
 #### Creative Thinker
 
-As well as being interested in scienece, I am also interested in art. I combined my creative and technological skills to develop a tool to create 360 art galleries instantly [Imaginespace](https://imaginespace.io). I am excited for future problem solving collaboration.
+As well as being interested in scienece, I am also interested in art. I combined my creative and technological skills to develop a tool to create 360 art galleries instantly [Imaginespace](https://imaginespace.io). I am excited about future projects.
 
 I attend life drawing classes weekly. I won the New College Art Prize and was a finalist in the highly competitive London Drawing Group ‘Overdrawn’ Art Prize in 2019.
 
