@@ -10,7 +10,7 @@ I am a graduate of New College, University of Oxford. I currently work as a mid-
 
 My analytical skills were honed throughout an intense degree syllabus, completing modules in advanced physics topics (Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics). 
 
-My current employer has a complex application network, with large legacy applications. Maintaining these sytems has developed a robust debugging process. I also enjoy innovating in green field projects, everything from building security for a database API, to my side projects creating software tools for creatives. I beleive a robust process is essential for sucess in exciting projects.
+My current employer has a complex application network, with large legacy applications. Maintaining these sytems has developed a robust debugging process. I also enjoy innovating in green field projects, everything from building security for a database API, to my side projects creating software tools for creatives. I believe a robust process is essential for sucess in exciting projects.
 
 #### Creative Thinker
 
