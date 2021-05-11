@@ -1,6 +1,6 @@
   ## Thomas Lawrence
 
-I am a graduate of New College, University of Oxford. I currently work as a mid-level software developer for a SaaS company. i have experience balancing personal projects with a busy professional life. 
+I am a graduate of New College, University of Oxford. I currently work as a mid-level software developer for a SaaS company. I have experience balancing personal projects with a busy professional life. 
 
 **Tech Skills** Python, Ruby, JavaScript, React, Rails, SQL, AWS, Docker, Redux, Jenkins
 
