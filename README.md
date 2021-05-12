@@ -22,7 +22,7 @@ I attend life drawing classes weekly. I won the New College Art Prize and was a 
 
 I greatly enjoy working in teams. As part of my degree project I explored evolutionary algorithms at the Diamond Light Source. It is here that I collaborated as a team of researchers to optimise the evolutionary algorithms' performance. I contributed in brainstorming solutions to departmental meetings.
 
-At Homeflow, I have led stand ups, retros and managed sprint cycles for the back-end team. In addition, I supervise and mentor junior developers entering the company. I write board reports and present on strategic projects. I collaborate with important clients, such as Connells Estate Agency Group and Rightmove, to overcome complex technical challenges.
+At Homeflow, I have led stand ups, retros and managed sprint cycles for the back-end team. In addition, I supervise and mentor junior developers entering the company. I write board reports and present on strategic projects. I collaborate with important clients, such as Connells the largest UK estate agency group and Rightmove, to overcome complex technical challenges.
 
 I founded an afterwork code club to share knowledge around the team on a wide range of topics including: Rails' AREL API, concurrent programming and React 360.
 
@@ -34,7 +34,7 @@ I regularly mentor in my local 'Codebar' where I teach minority groups how to co
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 |[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Create topdown dungeon crawler game using Python's Pygame library. | 2 weeks | Python, Pygame | Travis, Pylint |
-|[Imaginespace](https://imaginespace.io) | An Indie venture. A tool to create 360 galleries and a payment inegration with Stripe. | 6 months | React, Redux, Aframe, Render, AWS S3, Stripe.js, Bootstrap | React Testing Library, Jest, CircleCI, Render.com |
+|[Imaginespace](https://imaginespace.io) | An Indie venture. A tool to create 360 galleries and a payment inegration with Stripe. | 6 months | React, Redux, Aframe, Render, AWS S3, Stripe.js, Bootstrap, Node | React Testing Library, Jest, CircleCI, Render.com |
 |Database API ORM | A wrapper around database queries to convert data to Ruby Objects | 3 months | Rails, Ruby | Rspec |
 |Database API Authorization | Adding security to a database API so it can be securely accessed by external clients. | 3 months | Rails, Ruby | Rspec |
 |Property Geoqueries| Searches for properties in a given area (polygon). | 3 months | Rails, Ruby, Mongoid, Mongo | Rspec |
