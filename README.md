@@ -34,7 +34,7 @@ I regularly mentor in my local 'Codebar' where I teach minority groups how to co
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 |[Orthogonal Quest](https://github.com/Sindex42/orthogonal-quest) | Create topdown dungeon crawler game using Python's Pygame library. | 2 weeks | Python, Pygame | Travis, Pylint |
-|[Imaginespace](https://imaginespace.io) | An Indie venture. A tool to create 360 galleries and a payment inegration with Stripe. | 6 months | React, Redux, Aframe, Render, AWS S3, Stripe.js, Bootstrap, Node | React Testing Library, Jest, CircleCI, Render.com |
+|[Imaginespace](https://imaginespace.io) | An Indie venture. A tool to create 360 galleries and a payment inegration with Stripe. | 6 months | React, Redux, Aframe, AWS S3, Stripe.js, Bootstrap, Node | React Testing Library, Jest, CircleCI, Render.com |
 |Database API ORM | A wrapper around database queries to convert data to Ruby Objects | 3 months | Rails, Ruby | Rspec |
 |Database API Authorization | Adding security to a database API so it can be securely accessed by external clients. | 3 months | Rails, Ruby | Rspec |
 |Property Geoqueries| Searches for properties in a given area (polygon). | 3 months | Rails, Ruby, Mongoid, Mongo | Rspec |
