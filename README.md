@@ -40,7 +40,7 @@ I regularly mentor in my local 'Codebar' where I teach minority groups how to co
 |Database API Functionality Extension| Implemented complex querying capabilites in Database API. Including ranged queries, search includes, nested searches, and ordering. | 3 months | Rails, Ruby | Rspec, Jenkins
 |Database API Authorization | Project lead, adding authorization to a Database API so it can be securely accessed by external clients. | 3 months | Rails, Ruby | Rspec, Jenkins |
 |Article Load through Database API| Switching article load from legacy application to Database API including caching. | 3 months | Rails, Ruby, Memcached |  Rspec, Jenkins |
-|Article Previews| Added a preview link for articles. | 1 month | Created a page to allow clients to view article previews instantly. | 1 month | Rails, Javascript, AJAX | Rspec, Jenkins |
+|Article Previews| Created a page to allow clients to view article previews instantly. | 1 month | Rails, Javascript, AJAX | Rspec, Jenkins |
 |Leads API documentation| Created self-generating documentation from acceptance specs, for external clients to access leads API. | 2 weeks | Rspec API Documentation, Rspec, Open API | Jenkins
 |Property Geoqueries| Searches for properties in a given area (polygon). | 3 months | Rails, Ruby, Mongoid, Mongo | Rspec, Jenkins |
 |Homeflow JS | Re-write of my company's front end using React and Redux, my role was to write tests using React Test Library. | 1 month | Redux, React, Javascript, Webpack | React Testing Library, Jest |
