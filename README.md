@@ -41,13 +41,13 @@ I regularly mentor in my local 'Codebar' where I teach minority groups how to co
 |Database API Authorization | Project lead, adding authorization to a database API so it can be securely accessed by external clients. | 3 months | Rails, Ruby | Rspec, Jenkins |
 |Article Load through Database API| Switching article load from legacy application to database API including caching. | 3 months | Rails, Ruby, Memcached |  Rspec, Jenkins |
 |Article Previews| Added a preview link for articles. | 1 month | Created a page to allow clients to view article previews instantly. | 1 month | Rails, Javascript, AJAX | Rspec, Jenkins |
-|Leads API documentation| Created self-generating documentation from acceptence specs, for external clients to use API. | Rspec API documentation, Rspec, Open API  |
+|Leads API documentation| Created self-generating documentation from acceptence specs, for external clients to use API. | 2 weeks | Rspec API documentation, Rspec, Open API | jenkins
 |Property Geoqueries| Searches for properties in a given area (polygon). | 3 months | Rails, Ruby, Mongoid, Mongo | Rspec, Jenkins |
 |Homeflow JS | Re-write of my company's front end using React and Redux, my role was to write tests using React Test Library. | 1 month | Redux, React, Javascript, Webpack | React Testing Library, Jest |
-|Expunge Tool| A tool do delete user data securely for GDPR compliance | Ruby, Rails, SQL | Rspec, Jenkins
-|Automated Client Reports| A monthly internal report of client statuses requiring complex data queries. | SQL, Cron, Ruby, Rails | Rspec, Jenkins
-|Sitemaps Application| Extracted sitemap generator from legacy application into stand-alone application with up-to-date dependancies.| Rails, Ruby | Rspec, Jenkins|
-|Users API| Created stand-alone API to query user data. | Ruby, Rails | Rspec, Jenkins
+|Expunge Tool| A tool do delete user data securely for GDPR compliance | 1 month | Ruby, Rails, SQL | Rspec, Jenkins
+|Automated Client Reports| A monthly internal report of client statuses requiring complex data queries. | 2 months | SQL, Cron, Ruby, Rails | Rspec, Jenkins
+|Sitemaps Application| Extracted sitemap generator from legacy application into stand-alone application with up-to-date dependancies.| 2 weeks | Rails, Ruby | Rspec, Jenkins|
+|Users API| Created stand-alone API to query user data. | 2 weeks | Ruby, Rails | Rspec, Jenkins
 
 ## Education
 
